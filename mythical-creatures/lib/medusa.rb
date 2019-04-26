@@ -19,5 +19,4 @@ class Medusa
       victim.become_stoned
     end
   end
-
 end
